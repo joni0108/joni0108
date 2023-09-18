@@ -1,4 +1,4 @@
-👋 Hi, I’m Jonathan, but everyone calls me trollpro0108. I'm from Cuba, but living in the West Coast of the United States.
+👋 Hi, I’m Jonathan, but everyone calls me trollpro0108 which is my online nickname. I'm from Cuba, but living in the West Coast of the United States.
 💪 I'm skilled at:
 
 🧑‍💻 Coding -> I love coding, I know:
