@@ -2,11 +2,11 @@
 💪 I'm skilled at:
 
 🧑‍💻 Coding -> I love coding, I know:
-- Full Stack Web Development (Including Bootstrap, and React frameworks & Node.js)
+- Full Stack Web Development (Focused on NextJS with React, and NodeJS, and skilled at Tailwind CSS)
 - Windows Application Development (Using C# & .NET framework)
 - Metaquotes Language Development (MQL4 & MQL5)
 - Python Development
-- Databases like SQL, and MongoDB.
+- Databases like SQL (Turso), and MongoDB.
 
 🙊 Languages -> My goal is to learn 5 languages, I know:
 - Spanish (Native)
