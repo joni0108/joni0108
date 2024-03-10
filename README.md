@@ -1,35 +1,70 @@
-👋 Hi, I’m Jonathan, but everyone calls me trollpro0108 or joni0108 which are my online nicknames. I'm from Cuba, but living in the West Coast of the United States.
-💪 I'm skilled at:
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;!<h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB1FF7&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;Windows+Application+Developer" alt="Typing SVG" /></a>
+</p>
 
-🧑‍💻 Coding -> I love coding, I know:
-- Full Stack Web Development (Focused on NextJS with React, and NodeJS, and skilled at Tailwind CSS)
-- Windows Application Development (Using C# & .NET framework)
-- Metaquotes Language Development (MQL4 & MQL5)
-- Python Development
-- Databases like SQL (Turso), and MongoDB.
+<h2>Who am I?</h2>
 
-The languages I know are:
-- TypeScript
-- JavaScript
-- C#
-- Python
-- C++
-- MySQL
-- Microsoft VBA
+```js
+const AboutMe = {
+  name: 'Jonathan Fernandez',
+  age: '22',
+  from: 'Las Vegas, NV',
+  nationality: 'Cuban',
+  i_do_speak: {
+    spanish: 'Native',
+    english: 'Fluent',
+    portuguese: 'Intermediate',
+  },
+  programming_experience: '3 years',
 
-🙊 Languages -> My goal is to learn 5 languages, I know:
-- Spanish (Native)
-- English (Fluent)
-- Portuguese (Intermediate)
+  languages: {
+    web_frontend: ['Javascript', 'Typescript', 'HTML', 'CSS'],
+    backend: ['Javascript', 'SQL'],
+    windows_app: ['.C#'],
+    others: ['Python', 'MQL4', 'MQL5', 'Microsoft VBA'],
+  },
 
-🧾 Accounting -> I kinda like accounting, I'm skilled at:
-- Bookeeping (Advanced)
-- Budget Making
-- Forex Trading (Profitable | since July 2022)
+  technologies: {
+    web_frontend: ['React', 'Astro', 'NextJS', 'Tailwind', 'Bootstrap'],
+    backend: ['NodeJS', 'ExpressJS', 'NextJS'],
+    windows_app: ['.NET', 'Winforms'],
+    dbs_n_cloud: [
+      'MongoDB',
+      'MySQL',
+      'TursoDB',
+      'Vercel',
+      'AWS',
+      'Netlify',
+      'Heroku',
+    ],
+    testing: ['Jest', 'Jest React'],
+    tools: ['Git', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Codepen'],
+    design: ['Figma', 'Canva'],
+  },
 
-🏫 What I'm heading to learn:
-- AI Development (Machine Learning)
+  other_skills: [
+    accounting_n_bookeeping: "2ys",
+    data_analysis: '1y',
+    seo: "6mo",
+    marketing: '1yr',
+    forex_trading: "profitable | since July 2022",
+  ],
 
-If you would like to hire me (or my services), contact me at https://codixfy.com
+  contact_info: {
+    email: 'jonathanfernandmail@icloud.com',
+    website: 'https://codixfy.com',
+  },
+};
 
-So, let's work together, you won't regret it!👌
+//Useful when done in the web console
+function WhoIam() {
+  console.log(`Hello!! I am ${AboutMe.name}. Nice to meet you!`);
+  console.log(`You can reach me at my email -> ${AboutMe.contact_info.email}`);
+  console.log(`Or on my website -> ${AboutMe.contact_info.website}`);
+  console.log(' Good bye!');
+}
+
+//Print who I am!
+WhoIam();
+```
