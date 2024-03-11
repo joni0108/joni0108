@@ -68,3 +68,8 @@ function WhoIam() {
 //Print who I am!
 WhoIam();
 ```
+
+## Contact
+Email: jonathanfernandmail@icloud.com
+Linkedln: https://www.linkedin.com/in/joni0108/
+My company: https://codixfy.com
