@@ -70,6 +70,6 @@ WhoIam();
 ```
 
 ## Contact
-Email: jonathanfernandmail@icloud.com
-Linkedln: https://www.linkedin.com/in/joni0108/
-My company: https://codixfy.com
+Email: jonathanfernandmail@icloud.com <br />
+Linkedln: https://www.linkedin.com/in/joni0108/ <br />
+My company: https://codixfy.com <br />
