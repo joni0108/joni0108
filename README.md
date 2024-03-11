@@ -56,17 +56,6 @@ const AboutMe = {
     website: 'https://codixfy.com',
   },
 };
-
-//Useful when done in the web console
-function WhoIam() {
-  console.log(`Hello!! I am ${AboutMe.name}. Nice to meet you!`);
-  console.log(`You can reach me at my email -> ${AboutMe.contact_info.email}`);
-  console.log(`Or on my website -> ${AboutMe.contact_info.website}`);
-  console.log(' Good bye!');
-}
-
-//Print who I am!
-WhoIam();
 ```
 
 ## Contact
