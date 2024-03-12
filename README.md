@@ -43,13 +43,13 @@ const AboutMe = {
     design: ['Figma', 'Canva'],
   },
 
-  other_skills: [
+  other_skills: {
     accounting_n_bookeeping: "2ys",
     data_analysis: '1y',
     seo: "6mo",
     marketing: '1yr',
     forex_trading: "profitable | since July 2022",
-  ],
+  },
 
   contact_info: {
     email: 'jonathanfernandmail@icloud.com',
