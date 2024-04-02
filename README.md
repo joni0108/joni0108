@@ -15,6 +15,7 @@ const AboutMe = {
     spanish: 'Native',
     english: 'Fluent',
     portuguese: 'Intermediate',
+    french: 'basic',
   },
   programming_experience: '3 years',
 
