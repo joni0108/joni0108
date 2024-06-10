@@ -21,9 +21,9 @@ const AboutMe = {
 
   languages: {
     web_frontend: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-    backend: ['Javascript', 'SQL'],
+    backend: ['Javascript', 'Typescript', 'SQL'],
     windows_app: ['.C#'],
-    others: ['Python', 'MQL4', 'MQL5', 'Microsoft VBA'],
+    others: ['Dart', 'Python', 'MQL4', 'MQL5', 'Microsoft VBA'],
   },
 
   technologies: {
@@ -34,20 +34,19 @@ const AboutMe = {
       'MongoDB',
       'MySQL',
       'TursoDB',
+      'Firebase',
       'Vercel',
-      'AWS',
-      'Netlify',
-      'Heroku',
+      'Cloudflare',
     ],
-    testing: ['Jest', 'Jest React'],
-    tools: ['Git', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Codepen'],
+    testing: ['Jest', 'React Testing Library', 'Vitest'],
+    tools: ['Git', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Codepen', 'Husky', 'Storybook', 'ESlint', 'Prettier', 'Github Actions', 'AI Tools', 'AI APIs'],
     design: ['Figma', 'Canva'],
   },
 
   other_skills: {
     accounting_n_bookeeping: "2ys",
     data_analysis: '1y',
-    seo: "6mo",
+    seo: "1y",
     marketing: '1yr',
     forex_trading: "profitable | since July 2022",
   },
