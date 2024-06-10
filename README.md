@@ -39,7 +39,8 @@ const AboutMe = {
       'Cloudflare',
     ],
     testing: ['Jest', 'React Testing Library', 'Vitest'],
-    tools: ['Git', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Codepen', 'Husky', 'Storybook', 'ESlint', 'Prettier', 'Github Actions', 'AI Tools', 'AI APIs'],
+    tools: ['Git', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Codepen', 'Husky', 'Storybook',
+            'ESlint', 'Prettier', 'Github Actions', 'AI Tools', 'AI APIs'],
     design: ['Figma', 'Canva'],
   },
 
