@@ -66,6 +66,8 @@ A 22 years old full stack web developer; I love playing with new technologies, r
 ## Stats
 ![Joni0108 GitHub stats](https://github-readme-stats.vercel.app/api?username=joni0108&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joni0108&size_weight=0&count_weight=2)](https://github.com/joni0108)
+
 ## Contact
 
 > [!IMPORTANT]
