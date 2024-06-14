@@ -67,6 +67,11 @@ A 22 years old full stack web developer; I love playing with new technologies, r
 
 ## Stats
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Joni0108 GitHub stats](https://github-readme-stats.vercel.app/api?username=joni0108&show_icons=true&theme=transparent)
