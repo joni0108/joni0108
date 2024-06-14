@@ -33,6 +33,8 @@ A 22 years old full stack web developer; I love playing with new technologies, r
 <div>
 <image src="https://skillicons.dev/icons?i=firebase" />
 <image src="https://skillicons.dev/icons?i=mongodb" />
+<image src="https://skillicons.dev/icons?i=cloudflare" />
+<image src="https://skillicons.dev/icons?i=vercel" />
 </div>
 
 #### Languages
