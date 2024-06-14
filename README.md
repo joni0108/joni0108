@@ -3,63 +3,74 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB1FF7&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;Windows+Application+Developer" alt="Typing SVG" /></a>
 </p>
 
-<h2>Who am I?</h2>
+<h2>👋 Hi, I'm Jonathan Fernandez</h2>
 
-```js
-const AboutMe = {
-  name: 'Jonathan Fernandez',
-  age: '22',
-  from: 'Las Vegas, NV',
-  nationality: 'Cuban',
-  i_do_speak: {
-    spanish: 'Native',
-    english: 'Fluent',
-    portuguese: 'Intermediate',
-    french: 'basic',
-  },
-  programming_experience: '3 years',
+<p>
+A 22 years old full stack web developer; I love playing with new technologies, ride around, and playing piano. <br/>
+</p>
 
-  languages: {
-    web_frontend: ['Javascript', 'Typescript', 'HTML', 'CSS'],
-    backend: ['Javascript', 'Typescript', 'SQL'],
-    windows_app: ['.C#'],
-    others: ['Dart', 'Python', 'MQL4', 'MQL5', 'Microsoft VBA'],
-  },
+## ✨ Skills
 
-  technologies: {
-    web_frontend: ['React', 'Astro', 'NextJS', 'Tailwind', 'Bootstrap'],
-    backend: ['NodeJS', 'ExpressJS', 'NextJS'],
-    windows_app: ['.NET', 'Winforms'],
-    dbs_n_cloud: [
-      'MongoDB',
-      'MySQL',
-      'TursoDB',
-      'Firebase',
-      'Vercel',
-      'Cloudflare',
-    ],
-    testing: ['Jest', 'React Testing Library', 'Vitest'],
-    tools: ['Git', 'Postman', 'Visual Studio', 'Visual Studio Code', 'Codepen', 'Husky', 'Storybook',
-            'ESlint', 'Prettier', 'Github Actions', 'AI Tools', 'AI APIs'],
-    design: ['Figma', 'Canva'],
-  },
+#### Coding Framework/Libraries
+<div>
+<image src="https://skillicons.dev/icons?i=nextjs" />
+<image src="https://skillicons.dev/icons?i=astro" />
+<image src="https://skillicons.dev/icons?i=react" />
+<image src="https://skillicons.dev/icons?i=tailwind" />
+<image src="https://skillicons.dev/icons?i=nodejs" />
+<image src="https://skillicons.dev/icons?i=flutter" />
+<image src="https://skillicons.dev/icons?i=net" />
+<image src="https://skillicons.dev/icons?i=expressjs" />
+</div>
 
-  other_skills: {
-    accounting_n_bookeeping: "2ys",
-    data_analysis: '1y',
-    seo: "1y",
-    marketing: '1yr',
-    forex_trading: "profitable | since July 2022",
-  },
+#### Testing Libraries
+<div>
+<image src="https://skillicons.dev/icons?i=vitest" />
+  <image src="https://skillicons.dev/icons?i=jest" />
+</div>
 
-  contact_info: {
-    email: 'jonathanfernandmail@icloud.com',
-    website: 'https://codixfy.com',
-  },
-};
-```
+#### Services
+<div>
+<image src="https://skillicons.dev/icons?i=firebase" />
+<image src="https://skillicons.dev/icons?i=mongodb" />
+</div>
+
+#### Languages
+<div>
+<image src="https://skillicons.dev/icons?i=html" />
+<image src="https://skillicons.dev/icons?i=css" />
+<image src="https://skillicons.dev/icons?i=js" />
+<image src="https://skillicons.dev/icons?i=ts" />
+<image src="https://skillicons.dev/icons?i=dart" />
+<image src="https://skillicons.dev/icons?i=cs" />
+<image src="https://skillicons.dev/icons?i=python" />
+<image src="https://skillicons.dev/icons?i=cpp" />
+<image src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+#### Softwares
+<div>
+<image src="https://skillicons.dev/icons?i=figma" />
+<image src="https://skillicons.dev/icons?i=vscode" />
+<image src="https://skillicons.dev/icons?i=visualstudio" />
+<image src="https://skillicons.dev/icons?i=git" />
+<image src="https://skillicons.dev/icons?i=github" />
+<image src="https://skillicons.dev/icons?i=npm" />
+<image src="https://skillicons.dev/icons?i=office" />
+</div>
+
+### Languages I speak
+<image src="https://flagicons.lipis.dev/flags/4x3/um.svg" style="width: 16px"/> <strong>English</strong> <br />
+<image src="https://flagicons.lipis.dev/flags/4x3/es.svg" style="width: 16px"/> <strong>Spanish</strong>
+
+## Stats
+![Joni0108 GitHub stats](https://github-readme-stats.vercel.app/api?username=joni0108&show_icons=true&theme=transparent)
 
 ## Contact
+
+> [!IMPORTANT]
+> I am looking to collaborate on some projects, so if you got one, let me know!
+
 Email: jonathanfernandmail@icloud.com <br />
 Linkedln: https://www.linkedin.com/in/joni0108/ <br />
 My company: https://codixfy.com <br />
