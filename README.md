@@ -68,7 +68,11 @@ A 22 years old full stack web developer; I love playing with new technologies, r
 ## Stats
 <!--START_SECTION:waka-->
 
-```txt
+```rust
+From: 13 June 2024 - To: 13 June 2024
+
+Total Time: 0 secs
+
 No activity tracked
 ```
 
