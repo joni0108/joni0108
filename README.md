@@ -69,7 +69,7 @@ A 22 years old full stack web developer; I love playing with new technologies, r
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 June 2024 - To: 25 February 2025
+From: 13 June 2024 - To: 26 February 2025
 
 Total Time: 126 hrs 17 mins
 
