@@ -71,11 +71,11 @@ A 22 years old full stack web developer; I love playing with new technologies, r
 ```rust
 From: 13 June 2024 - To: 17 May 2026
 
-Total Time: 148 hrs 52 mins
+Total Time: 149 hrs 3 mins
 
-TypeScript       103 hrs 47 mins       >>>>>>>>>>>>>>>>>--------   68.28 %
-JavaScript       17 hrs 59 mins        >>>----------------------   11.83 %
-Markdown         15 hrs 56 mins        >>>----------------------   10.49 %
+TypeScript       103 hrs 57 mins       >>>>>>>>>>>>>>>>>--------   68.32 %
+JavaScript       17 hrs 59 mins        >>>----------------------   11.82 %
+Markdown         15 hrs 56 mins        >>>----------------------   10.48 %
 JSON             4 hrs 49 mins         >------------------------   03.17 %
 Other            3 hrs 7 mins          >------------------------   02.05 %
 ```
