@@ -93,4 +93,4 @@ Other            3 hrs 17 mins         >------------------------   02.15 %
 
 Email: jonathanfernandmail@icloud.com <br />
 Linkedln: https://www.linkedin.com/in/joni0108/ <br />
-My company: https://veloracoding.com <br />
+My company: https://1mfventures.com <br />
