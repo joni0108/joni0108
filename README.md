@@ -1,12 +1,12 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;!<h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB1FF7&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;Windows+Application+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB1FF7&center=true&random=false&width=435&lines=Full+Stack+Web+Developer;Mobile+Apps+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h2>👋 Hi, I'm Jonathan Fernandez</h2>
 
 <p>
-A 22 years old full stack web developer; I love playing with new technologies, ride around, and playing piano. <br/>
+A 25 years old full stack web developer; I love playing with new technologies, ride around, and playing piano. <br/>
 </p>
 
 ## ✨ Skills
