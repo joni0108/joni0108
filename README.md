@@ -69,15 +69,15 @@ A 25 years old full stack web developer; I love playing with new technologies, r
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 June 2024 - To: 27 September 2026
+From: 13 June 2024 - To: 28 September 2026
 
 Total Time: 150 hrs 15 mins
 
-TypeScript       104 hrs 20 mins       >>>>>>>>>>>>>>>>>--------   67.77 %
-JavaScript       17 hrs 59 mins        >>>----------------------   11.68 %
-Markdown         16 hrs 19 mins        >>>----------------------   10.60 %
-JSON             4 hrs 47 mins         >------------------------   03.11 %
-Other            3 hrs 42 mins         >------------------------   02.41 %
+TypeScript       104 hrs 20 mins       >>>>>>>>>>>>>>>>>--------   67.52 %
+JavaScript       17 hrs 59 mins        >>>----------------------   11.64 %
+Markdown         16 hrs 19 mins        >>>----------------------   10.56 %
+JSON             4 hrs 47 mins         >------------------------   03.10 %
+Other            4 hrs 16 mins         >------------------------   02.77 %
 ```
 
 <!--END_SECTION:waka-->
